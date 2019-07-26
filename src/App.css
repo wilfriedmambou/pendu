@@ -1,36 +1,32 @@
-.b1{
+.b1 {
   /* display: flex; */
   width: 100px;
   /* margin: 10px; */
   /* padding: 1%; */
-  border-style:solid;
+  border-style: solid;
   border-radius: 5px;
   text-align: center;
+  cursor: pointer;
   /* flex-wrap: wrap; */
   /* display: flex; */
-  
-
 }
 
 /* classe pour les chaque lettre de la phrase a masquer */
- .ph{
-  width:60px; 
-  border-style:solid;
+.ph {
+  width: 60px;
+  border-style: solid;
   text-align: center;
   border-radius: 5px;
   text-align: center;
-  
- } 
-.top{
+}
+.top {
   margin-top: 25px;
-  display:flex;
+  display: flex;
   flex-wrap: rwap;
 }
 
-.topbon{ 
+.topbon {
   margin-top: 50px;
-  display:flex;
+  display: flex;
   flex-wrap: rwap;
-
-  
- } 
+}
